@@ -1,28 +1,35 @@
 # PiBlock
 
-PI BLOCK
+PI BLOCK – Servidors de Minecraft per Instituts
 
-Abast
+Què és?
+Una xarxa de servidors de Minecraft amb Raspberry Pi 5 per a cada institut i un servidor central per als esdeveniments grans. Tot pensat per ser fàcil, ràpid i escalable.
 
-Volem fer una red de servidors de minecraft per a instituts.
+Com funciona?
 
-Els servidors han de ser
+Plug-and-Play: Només connectes la Raspberry Pi i ja funciona.
 
-Plug-And-Play
-Facil d'instal·lar
-Bon rendiment
-Escalables
-Facil configuracion e instalacion
+Fàcil de gestionar: Panell web per veure els servidors, jugadors i executar comandes.
 
+Escalable: Afegir més Raspberry Pi segons necessitat.
 
-Etapes
+Bon rendiment: Servidors optimitzats i central per a esdeveniments grans.
 
-Configurar las Raspberry Pi 5 per a poder suportar un servidor de minecraft de manera facil, rapida i escalable
-Configurar el servidor central (El servidor amb molts recursos) per a fer hosting dels events grans i que accepti connexions de els servidors mes petis com ara las raspberrys
+Etapes principals:
 
-Configurar un panel de administración a la página web on poder controlar tots els servidors connectats al nostre servei. Es podrà veure recursos i controlar commandes del servidor i (POSIBLEMENTE) ssh.
+Configurar les Raspberry Pi amb Minecraft i plugins bàsics.
 
+Configurar el servidor central per coordinar tot i fer backups.
 
+Crear el panell web per gestionar i monitoritzar els servidors.
+
+Avantatges:
+
+Ideal per activitats i competicions a l’institut.
+
+Instal·lació senzilla sense necessitat de tècnic.
+
+Permet començar petit i créixer segons la demanda.
 
 Context
 ![Imagte Definició](img/def.png)
